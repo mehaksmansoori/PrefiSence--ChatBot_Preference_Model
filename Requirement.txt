@@ -4,5 +4,6 @@ pandas
 tensorflow
 scikit-learn
 joblib
+sklearn
 nltk
 imbalanced-learn
