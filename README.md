@@ -48,7 +48,7 @@ Feature Extraction: Extracts various features (semantic similarity, sentiment, e
 
 Prediction: The model predicts which response a human would prefer.
 
-Output: Displays the preferred response with a probability score.
+Output: Displays the preferred response.
 
 🧑‍💻 Getting Started
 1. Clone the repo
