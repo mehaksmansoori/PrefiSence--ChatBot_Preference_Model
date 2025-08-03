@@ -77,8 +77,6 @@ Integrate deep learning models like BERT for direct preference classification.
 
 Support for multi-turn conversations.
 
-Web deployment on Hugging Face Spaces or Streamlit Cloud.
-
 📚 Resources & Acknowledgements
 Human Preference Datasets (OpenAI, Anthropic-style)
 
