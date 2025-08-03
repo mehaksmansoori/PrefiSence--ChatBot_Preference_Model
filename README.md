@@ -3,15 +3,13 @@ PrefiSence - ChatBot Preference Prediction Model
 PrefiSence is a machine learning-based system designed to predict user preferences between chatbot responses. It aims to enhance chatbot evaluation by determining which response is more aligned with human expectations based on relevance, tone, and completeness.
 
 🚀 Features
-🧠 ML Model: Uses Logistic Regression (or Random Forest optionally) for binary classification between two chatbot responses.
+🧠 ML Model: Uses Random Forest model.
 
 📊 Feature Engineering: Includes semantic similarity, length comparison, sentiment analysis, and more.
 
 💬 Response Comparison Interface: Evaluate and compare chatbot responses using a custom Streamlit web app.
 
 ⚙️ Custom Dataset Support: Trained on a dataset containing human-labeled preferences between two chatbot responses per prompt.
-
-🔍 Real-Time Predictions: Upload a CSV or enter input directly to predict user-likeable responses.
 
 🛠️ Tech Stack
 Frontend: Streamlit
